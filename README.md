@@ -1,5 +1,5 @@
 # ProjetStage
-Depot des codes du programme JAVA écrit pour l'analyse des données du stage;
+Programme JAVA pour l'analyse et l'export des données du stage de patients respectant des critères d'inclusion et d'exclusion.
 
 Ce fichier contient les dossiers classes, input et main.
 
